@@ -54,12 +54,6 @@ index.html     → main application file
 
 ---
 
-## 🎥 Demo
-
-https://your-video-link
-
----
-
 ## ⚙️ How to Run
 
 1. Open `index.html` in browser
